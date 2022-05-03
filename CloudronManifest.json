@@ -1,0 +1,21 @@
+{
+  "id": "com.morochena.actual",
+  "title": "Actual",
+  "author": "Marcus Orochena <marcus@orochena.net>",
+  "description": "Actual is a super fast privacy-focused app for managing your finances. You own your data, and we will sync it across all devices with optional end-to-end encryption.",
+  "tagline": "Enjoy managing your finances",
+  "version": "1.0.0",
+  "healthCheckPath": "/",
+  "httpPort": 5006,
+  "memoryLimit": 256000000,
+  "addons": {
+    "localstorage": {}
+  },
+  "manifestVersion": 2,
+  "website": "https://www.orochena.net",
+  "contactEmail": "marcus@orochena.net",
+  "tags": ["budget", "finances"],
+  "mediaLinks": [
+    "https://images.rapgenius.com/fd0175ef780e2feefb30055be9f2e022.520x343x1.jpg"
+  ]
+}
